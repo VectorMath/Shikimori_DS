@@ -1,4 +1,6 @@
-# Shikimori_DS
+<p align="center">
+  <img src="https://github.com/VectorMath/Shikimori_DS/blob/master/docs/github_logo.png" />
+</p>
 
 ## Описание пет-проекта.
 Проект по **Data Science,** направленный на разработку моделей машинного обучения для :
