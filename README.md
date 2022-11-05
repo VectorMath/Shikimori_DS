@@ -6,7 +6,12 @@
 **Data science проектная часть,** направленная на разработку моделей машинного обучения для:
   * **Прогноз рейтинга аниме**
   * **Классификация аниме на успешные/провальные.** 
-  * **Внедрение моделей в веб-сервис (https://github.com/VectorMath/Shikimori_web_service).**
+  
+  
+  
+**Репозиторий проекта: https://github.com/VectorMath/Shikimori**
+
+**Репозиторий с API-частью: https://github.com/VectorMath/Shikimori_web_service**
 
 ## Модели.
 На текущий момент реализовано:
